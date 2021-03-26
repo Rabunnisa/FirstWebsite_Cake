@@ -1,0 +1,48 @@
+body{
+    
+  background-color:#c8aac7;
+  
+  width: 100%;
+  margin-bottom:70px ;
+       
+      }
+     
+.text{
+color: rgb(64, 71, 69);
+text-emphasis-position: left;
+ }
+ .main1{
+    
+  color: rgb(64, 71, 69);
+}
+.main,a{
+  text-align: center;
+color: rgb(64, 71, 69);
+}
+
+section{
+  margin-bottom: 200px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+}
+div{
+  display: flex;
+  flex-direction:column;
+  display: inline;
+padding-left:40px;
+color: rgb(64, 71, 69);
+border-spacing: 0cm
+;
+}
+.cakes{
+  color: rgb(64, 71, 69);
+}
+img{
+  border-radius: 40%;
+}
+.cakes,p{
+  text-align: center;
+
+}
